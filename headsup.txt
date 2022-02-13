@@ -1,6 +1,7 @@
 Alright so i dont know whats been going on with argos but somehow its spread, The Ransomware was a joke, you can call it a penetest. I recently saw some twitter posts about it and didnt know it was making a havoc, and i thought nothing about it.
 BUT STILL, someone decided to spread it using exploits and manipulation. Ive been offline alot i know but ive been working on my own protection engine for others.
 TeraEng will be release in like a few months or so. but PLEASE FOR THE LOVE OF GOD. DONT SPREAD MY STUFF.
+I make malware for fun, not for illegal purposes. Ive seen random people distribute my stuff.
 
 Here are the decryption keys:
 A.variant: diguyh3rtiu34gth9iu34tg398uhfb08uhd0sdfgoigiohgi98guh3459tiu34ht8hdfv087yr
